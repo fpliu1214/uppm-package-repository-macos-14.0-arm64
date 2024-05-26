@@ -1,0 +1,5 @@
+summary: Zip file manipulation library with minizip 1.x compatibility layer
+webpage: https://github.com/zlib-ng/minizip-ng
+version: 4.0.5
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-14.0-arm64/releases/download/2024.05.26/minizip-ng-4.0.5-macos-14.0-arm64.tar.xz
+bin-sha: 665e92947bae5d33817722dfb39af1df58260616a6b114689fd04236e04bdc8f

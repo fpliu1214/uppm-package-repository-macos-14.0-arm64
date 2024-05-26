@@ -1,0 +1,5 @@
+summary: a POSIX-compliant implementation of /bin/sh that aims to be as small as possible
+webpage: http://gondor.apana.org.au/~herbert/dash
+version: 0.5.12
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-14.0-arm64/releases/download/2024.05.26/dash-0.5.12-macos-14.0-arm64.tar.xz
+bin-sha: 54cd836ca9aebb7f3dcf8185606d4a108b5925e8b53ac83dfd711721a22323af

@@ -1,0 +1,5 @@
+summary: A set of tools to centralize translation of many different file formats using GNU gettext-compatible PO files
+webpage: https://wiki.freedesktop.org/www/Software/intltool
+version: 0.51.0
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-14.0-arm64/releases/download/2024.05.26/intltool-0.51.0-macos-14.0-arm64.tar.xz
+bin-sha: d9af3f0946ef0f24fc86308037ba437d45a328048387bfd8c33f0546fea80956

@@ -1,0 +1,5 @@
+summary: Small memory footprint, flexible web-server
+webpage: https://www.lighttpd.net/
+version: 1.4.72
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-14.0-arm64/releases/download/2024.05.26/lighttpd-1.4.72-macos-14.0-arm64.tar.xz
+bin-sha: 7bce95686035d30a52657b77705f19888502e037cf3d9590ecd7cdcf34513ddc

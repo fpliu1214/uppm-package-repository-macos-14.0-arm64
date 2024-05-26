@@ -1,0 +1,5 @@
+summary: Static analysis of C and C++ code
+webpage: https://sourceforge.net/projects/cppcheck
+version: 2.11.1
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-14.0-arm64/releases/download/2024.05.26/cppcheck-2.11.1-macos-14.0-arm64.tar.xz
+bin-sha: 3a8d24c868d67ac5a47c17cc8841c66bafd6829aec696bda6db5ff8eb4f4cebc

@@ -1,0 +1,5 @@
+summary: Tool Command Language
+webpage: https://www.tcl-lang.org
+version: 8.6.14
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-14.0-arm64/releases/download/2024.05.26/tcl-8.6.14-macos-14.0-arm64.tar.xz
+bin-sha: 77c133423e212718bb0ed7c3ca75c54ff923f309e8bb57fe99e6837eb9cb087c

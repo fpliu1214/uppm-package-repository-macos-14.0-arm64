@@ -1,0 +1,5 @@
+summary: File transfer program
+webpage: http://zsync.moria.org.uk/
+version: 0.6.2
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-14.0-arm64/releases/download/2024.05.26/zsync-0.6.2-macos-14.0-arm64.tar.xz
+bin-sha: 3dea4cda40a6493e27ac8159a0b3adf01fd914ba99763b7a0531357de55525bc

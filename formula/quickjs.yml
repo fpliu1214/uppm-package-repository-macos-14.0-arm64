@@ -1,0 +1,5 @@
+summary: A small and embeddable JavaScript engine
+webpage: https://bellard.org/quickjs
+version: 2024.01.13
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-14.0-arm64/releases/download/2024.05.26/quickjs-2024.01.13-macos-14.0-arm64.tar.xz
+bin-sha: 4e162fd09bfc822ef692d4b53beb2bbba4e70cf4cd952a8180c131b5ee3fd8c3

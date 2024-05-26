@@ -1,0 +1,5 @@
+summary: Unit testing framework for C++
+webpage: https://wiki.freedesktop.org/www/Software/cppunit/
+version: 1.15.1
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-14.0-arm64/releases/download/2024.05.26/cppunit-1.15.1-macos-14.0-arm64.tar.xz
+bin-sha: dd94ebf2ce221e87810f4b743d252036d0fe9d8167cc608798c262cb4ff46f54

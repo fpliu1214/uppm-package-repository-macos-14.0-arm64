@@ -1,0 +1,5 @@
+summary: The Universal WebAssembly Runtime
+webpage: https://wasmer.io
+version: 4.3.0
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-14.0-arm64/releases/download/2024.05.26/wasmer-4.3.0-macos-14.0-arm64.tar.xz
+bin-sha: a4fce5777acd9de62a3371a611ef3b8465b024985af970473c48783c8ea842e2

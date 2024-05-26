@@ -1,0 +1,5 @@
+summary: A free and easy-to-use client-side URL transfer library
+webpage: https://curl.haxx.se/
+version: 8.7.1
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-14.0-arm64/releases/download/2024.05.26/libcurl-8.7.1-macos-14.0-arm64.tar.xz
+bin-sha: 0a408a34547792524d29e1a36bea7a743d0622afd044a23ccdd30da1c5fe2d6d

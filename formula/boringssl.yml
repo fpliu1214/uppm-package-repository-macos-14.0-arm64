@@ -1,0 +1,5 @@
+summary: A fork of OpenSSL that is designed to meet Google needs
+webpage: https://boringssl.googlesource.com/boringssl/
+version: 2024.05.26
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-14.0-arm64/releases/download/2024.05.26/boringssl-2024.05.26-macos-14.0-arm64.tar.xz
+bin-sha: a2cf088bc507287fdbd44f6e85bbca2ca70ff673eae2657302d5ad2c702d6ae0

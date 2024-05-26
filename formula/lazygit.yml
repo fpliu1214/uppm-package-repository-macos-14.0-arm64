@@ -1,0 +1,5 @@
+summary: A simple terminal UI for git commands
+webpage: https://github.com/jesseduffield/lazygit
+version: 0.41.0
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-14.0-arm64/releases/download/2024.05.26/lazygit-0.41.0-macos-14.0-arm64.tar.xz
+bin-sha: f7c249559d84034ad8cfab14951d724fddd8c8335c6622a1601dfaafb486e572

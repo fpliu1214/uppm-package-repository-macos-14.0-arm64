@@ -1,0 +1,5 @@
+summary: Run and Test HTTP Requests with plain text and curl
+webpage: https://hurl.dev
+version: 4.3.0
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-14.0-arm64/releases/download/2024.05.26/hurl-4.3.0-macos-14.0-arm64.tar.xz
+bin-sha: cb588b6ee169e7d9289003eaaa7507f0b104e0ea323634a97171b6fc017c43ee

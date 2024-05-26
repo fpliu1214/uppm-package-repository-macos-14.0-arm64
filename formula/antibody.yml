@@ -1,0 +1,5 @@
+summary: Shell plugin manager
+webpage: https://getantibody.github.io/
+version: 6.1.1
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-14.0-arm64/releases/download/2024.05.26/antibody-6.1.1-macos-14.0-arm64.tar.xz
+bin-sha: 467044456f45279906f6fa0bfde06a63a0c44616ce90c77d8dc3f8f56276b815

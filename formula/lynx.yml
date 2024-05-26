@@ -1,0 +1,5 @@
+summary: Text-based web browser
+webpage: http://lynx.browser.org
+version: 2.8.9rel.1
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-14.0-arm64/releases/download/2024.05.26/lynx-2.8.9rel.1-macos-14.0-arm64.tar.xz
+bin-sha: 51cd9cbd304d63929bb4aa930ca2bdaa1735c1d288811222abe019e72ff98556

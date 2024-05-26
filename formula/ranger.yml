@@ -1,0 +1,5 @@
+summary: A VIM-inspired file manager for the console
+webpage: https://ranger.github.io
+version: 1.9.3
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-14.0-arm64/releases/download/2024.05.26/ranger-1.9.3-macos-14.0-arm64.tar.xz
+bin-sha: 67acd8813e27ac102f02718c3cdb771624b89854a299afba7703096cbece5ba5

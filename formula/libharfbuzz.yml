@@ -1,0 +1,5 @@
+summary: A text shaping engine. It primarily supports OpenType, but also Apple Advanced Typography
+webpage: https://github.com/harfbuzz/harfbuzz
+version: 8.4.0
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-14.0-arm64/releases/download/2024.05.26/libharfbuzz-8.4.0-macos-14.0-arm64.tar.xz
+bin-sha: 958daa4e0ead4c9fadcaad86c22b41895d23a27cadedc9d191c16ce5ab826234

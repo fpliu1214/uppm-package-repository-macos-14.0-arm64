@@ -1,0 +1,5 @@
+summary: Cryptography and SSL/TLS Toolkit
+webpage: https://www.openssl.org/
+version: 1.1.1w
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-14.0-arm64/releases/download/2024.05.26/openssl@1.1-1.1.1w-macos-14.0-arm64.tar.xz
+bin-sha: 3000d30299ae419a416b826eda0d53eecb06000b2b404e55af3b4a51cde81560

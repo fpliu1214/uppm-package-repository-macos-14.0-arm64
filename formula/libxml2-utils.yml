@@ -1,0 +1,5 @@
+summary: utilities provided by libxml2
+webpage: http://xmlsoft.org
+version: 2.12.6
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-14.0-arm64/releases/download/2024.05.26/libxml2-utils-2.12.6-macos-14.0-arm64.tar.xz
+bin-sha: 58eeb2e09cf2cfd51c0a5d98778aca042838f0fed4bd9feecb9719264f4504c4

@@ -1,0 +1,5 @@
+summary: Device tree compiler
+webpage: https://git.kernel.org/pub/scm/utils/dtc/dtc.git
+version: 1.7.0
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-14.0-arm64/releases/download/2024.05.26/libfdt-1.7.0-macos-14.0-arm64.tar.xz
+bin-sha: 178673de81a12c3bcabeedfe23dd83aaf7ed02c4aff8bde8634abf2527ceb02e

@@ -1,0 +1,5 @@
+summary: A C library for reading, creating, and modifying zip archives
+webpage: https://libzip.org/
+version: 1.10.1
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-14.0-arm64/releases/download/2024.05.26/libzip-1.10.1-macos-14.0-arm64.tar.xz
+bin-sha: 376fd0a18db9c773d8c683c59653e771cf13624e69bb2e3ab5e37165876989f9

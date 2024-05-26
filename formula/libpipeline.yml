@@ -1,0 +1,5 @@
+summary: Library for manipulating pipelines of subprocesses in a flexible and convenient way
+webpage: http://libpipeline.nongnu.org
+version: 1.5.7
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-14.0-arm64/releases/download/2024.05.26/libpipeline-1.5.7-macos-14.0-arm64.tar.xz
+bin-sha: be9e95ed74944527945f764232d2616351099ba15352e532e39ea878dd68c449

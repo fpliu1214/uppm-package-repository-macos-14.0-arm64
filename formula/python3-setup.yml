@@ -1,0 +1,5 @@
+summary: a command-line tool to setup CPython3.
+webpage: https://github.com/leleliu008/python3-setup
+version: 1.0.0
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-14.0-arm64/releases/download/2024.05.26/python3-setup-1.0.0-macos-14.0-arm64.tar.xz
+bin-sha: 8caa70190d09dc64857b71b4bfe0643b0e128815fe50df3b5971236174bd384c

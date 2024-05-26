@@ -1,0 +1,5 @@
+summary: Decentralized, peer to peer payment network
+webpage: https://bitcoincore.org/
+version: 25.0
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-14.0-arm64/releases/download/2024.05.26/bitcoin-25.0-macos-14.0-arm64.tar.xz
+bin-sha: 0866624848c71d35e336aa024a7d35207cdaa7221b2f6144c248e9faecaf2e1f

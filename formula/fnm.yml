@@ -1,0 +1,5 @@
+summary: Fast and simple Node.js version manager
+webpage: https://github.com/Schniz/fnm
+version: 1.35.1
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-14.0-arm64/releases/download/2024.05.26/fnm-1.35.1-macos-14.0-arm64.tar.xz
+bin-sha: 8d26d9eed1b7c6674914673532e8cc0b1d2d8f703c159d418ba15803a5b0e6af

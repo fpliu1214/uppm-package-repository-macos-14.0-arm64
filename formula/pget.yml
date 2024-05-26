@@ -1,0 +1,5 @@
+summary: The fastest file download client
+webpage: https://github.com/Code-Hex/pget
+version: 2024.05.26
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-14.0-arm64/releases/download/2024.05.26/pget-2024.05.26-macos-14.0-arm64.tar.xz
+bin-sha: 2d0965efa56f43d8cc56032593ddb894866bcad076a629020710d653dbab739f

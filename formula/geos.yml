@@ -1,0 +1,5 @@
+summary: Geometry Engine
+webpage: https://trac.osgeo.org/geos
+version: 3.12.1
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-14.0-arm64/releases/download/2024.05.26/geos-3.12.1-macos-14.0-arm64.tar.xz
+bin-sha: bb2e318c51f7b834c571a872613ac63d24bb52a2d0afe372ec3d3422bca06838

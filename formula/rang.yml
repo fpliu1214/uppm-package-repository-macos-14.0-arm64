@@ -1,0 +1,5 @@
+summary: A Minimal, Header only Modern c++ library for terminal goodies
+webpage: https://github.com/agauniyal/rang
+version: 3.2
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-14.0-arm64/releases/download/2024.05.26/rang-3.2-macos-14.0-arm64.tar.xz
+bin-sha: 65fb531c84be1ba7e2dcb9b5b7db1f4fc3900a7ee31472e2da2ae18aa97e643d

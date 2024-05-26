@@ -1,0 +1,5 @@
+summary: Low-level access to audio, keyboard, mouse, joystick and graphics
+webpage: https://www.libsdl.org/
+version: 2.30.3
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-14.0-arm64/releases/download/2024.05.26/sdl2-2.30.3-macos-14.0-arm64.tar.xz
+bin-sha: 69037bf03757d930a82b51614243ce332df4d9e82f02503a15d594877fa954a7

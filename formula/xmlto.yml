@@ -1,0 +1,5 @@
+summary: Convert XML to another format (based on XSL or other tools)
+webpage: https://pagure.io/xmlto/
+version: 0.0.28
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-14.0-arm64/releases/download/2024.05.26/xmlto-0.0.28-macos-14.0-arm64.tar.xz
+bin-sha: 8f36bf3c03283cab760f7bc8ffc46bd294bbd37ea94f34644e0f17b3bbf5e49f

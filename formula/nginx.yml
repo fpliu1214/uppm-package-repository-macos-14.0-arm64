@@ -1,0 +1,5 @@
+summary: HTTP(S) server and reverse proxy, and IMAP/POP3 proxy server
+webpage: https://nginx.org
+version: 1.25.5
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-14.0-arm64/releases/download/2024.05.26/nginx-1.25.5-macos-14.0-arm64.tar.xz
+bin-sha: e9d25f8c8229b8abea60e30276bc748a5906700a6264520ebaa47ab93d04c367

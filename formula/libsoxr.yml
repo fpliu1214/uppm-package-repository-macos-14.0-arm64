@@ -1,0 +1,5 @@
+summary: High quality, one-dimensional sample-rate conversion library
+webpage: https://sourceforge.net/projects/soxr/
+version: Source
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-14.0-arm64/releases/download/2024.05.26/libsoxr-Source-macos-14.0-arm64.tar.xz
+bin-sha: ee494a575bc8c1a91aa6f4f5415d62087057ab8c50075cb680962f37bfb7ff4e

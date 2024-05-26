@@ -1,0 +1,5 @@
+summary: C library to read whole-slide images (a.k.a. virtual slides)
+webpage: https://openslide.org/
+version: 4.0.0
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-14.0-arm64/releases/download/2024.05.26/openslide-4.0.0-macos-14.0-arm64.tar.xz
+bin-sha: 17a725d8cf690875a8733d505197d9a1f6b37107dcd1190c1c7ed3a078e0e8b5

@@ -1,0 +1,5 @@
+summary: Copies files into or out of a cpio or tar archive
+webpage: https://www.gnu.org/software/cpio
+version: 2.15
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-14.0-arm64/releases/download/2024.05.26/cpio-2.15-macos-14.0-arm64.tar.xz
+bin-sha: 99182e5a62abbdedc1a1e7f2420e46c88b88a3c0c190850f6539998b07731f89

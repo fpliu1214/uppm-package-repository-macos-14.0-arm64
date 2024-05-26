@@ -1,0 +1,5 @@
+summary: A free, general-purpose data compression with a high compression ratio
+webpage: https://tukaani.org/xz
+version: 5.4.6
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-14.0-arm64/releases/download/2024.05.26/xz-5.4.6-macos-14.0-arm64.tar.xz
+bin-sha: fd3b6238ccf06e6963769544d3cbe96b552d3079f9b3fe7af3dc8ee949f63487

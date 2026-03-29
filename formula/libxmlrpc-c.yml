@@ -1,0 +1,5 @@
+summary: A lightweight RPC library for C/C++ based on XML and HTTP
+webpage: https://xmlrpc-c.sourceforge.io/
+version: 1.64.03
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-14.0-arm64/releases/download/2026.03.29.1/libxmlrpc-c-1.64.03-MacOSX-14.0-arm64.tar.xz
+bin-sha: d4c5c441b472c3b79eca70c7a217eb996f2bb42fe5218a7e521a803eac5c1740

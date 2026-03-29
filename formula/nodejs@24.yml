@@ -1,0 +1,5 @@
+summary: A JavaScript runtime built on top of V8 JavaScript engine
+webpage: https://nodejs.org/
+version: 24.14.1
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-14.0-arm64/releases/download/2026.03.29.1/nodejs-24.14.1-MacOSX-14.0-arm64.tar.xz
+bin-sha: 4bccddeca6059e8d5a01d1c952556202cf9e442753ecbe41f8abeffb68747766

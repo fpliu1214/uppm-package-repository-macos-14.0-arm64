@@ -1,5 +1,5 @@
 summary: Protocol Buffers(data interchange format) compiler and library developed by Google
 webpage: https://github.com/protocolbuffers/protobuf
-version: 26.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-14.0-arm64/releases/download/2024.06.06/libprotobuf-26.1-macos-14.0-arm64.tar.xz
-bin-sha: e0b64c389cbbdf37acfc5b7eb5c7353078628c152cc71358b4cca654bd5a5982
+version: 32.0
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-14.0-arm64/releases/download/2026.03.29.1/libprotobuf-32.0-MacOSX-14.0-arm64.tar.xz
+bin-sha: 13c65e042389818519b40403c57754d26c5ba6091907d75a908b487f839fc4ad

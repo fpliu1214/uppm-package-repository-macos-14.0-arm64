@@ -1,0 +1,5 @@
+summary: Library for support vector machines
+webpage: https://www.csie.ntu.edu.tw/~cjlin/libsvm/
+version: 3.37
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-14.0-arm64/releases/download/2026.03.29.1/libsvm-3.37-MacOSX-14.0-arm64.tar.xz
+bin-sha: 629d982da084fe3b6228e02b97918eaa670705d5aaa2943bfe0cb787c7cd41cc

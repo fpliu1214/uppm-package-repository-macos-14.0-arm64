@@ -1,0 +1,5 @@
+summary: High performance key/value database
+webpage: https://www.oracle.com/database/technologies/related/berkeleydb.html
+version: 18.1.40
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-14.0-arm64/releases/download/2026.03.29.1/libdb-18.1.40-MacOSX-14.0-arm64.tar.xz
+bin-sha: 37286692c2ff3d871dcb30ac0f8142b8f2829d9830bc12809f16193a35e8e0bc

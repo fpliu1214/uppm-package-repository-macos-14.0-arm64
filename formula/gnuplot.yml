@@ -1,0 +1,5 @@
+summary: A command-line utility for producing 2D and 3D plots
+webpage: http://www.gnuplot.info/
+version: 6.0.4
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-14.0-arm64/releases/download/2026.03.29.1/gnuplot-6.0.4-MacOSX-14.0-arm64.tar.xz
+bin-sha: b3db3bd2f759e9b30b71eee2f32c87c1324c75ecc17b4b3667fc210afcc25461

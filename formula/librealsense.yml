@@ -1,0 +1,5 @@
+summary: Intel RealSense D400 series and SR300 capture
+webpage: https://github.com/IntelRealSense/librealsense/
+version: 2.56.3
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-14.0-arm64/releases/download/2026.03.29.1/librealsense-2.56.3-MacOSX-14.0-arm64.tar.xz
+bin-sha: f66dfcefb06e2f05ca0d6a4bf0f7bdfc5ff020ee325de9848341aab9c8c6b1c1

@@ -1,5 +1,5 @@
 summary: Generate C-based recognizers from regular expressions
 webpage: https://re2c.org/
-version: 3.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-14.0-arm64/releases/download/2024.06.06/re2c-3.1-macos-14.0-arm64.tar.xz
-bin-sha: 6c59dade59a67c25f198f18e91b333a507e2022efd2f982b55e5811a61ad6a99
+version: 4.4
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-14.0-arm64/releases/download/2026.03.29.1/re2c-4.4-MacOSX-14.0-arm64.tar.xz
+bin-sha: 16d4b9ea9e4f9a464e769b18cc7bbb807e85811a684ab260a128ed6b90f33aaa

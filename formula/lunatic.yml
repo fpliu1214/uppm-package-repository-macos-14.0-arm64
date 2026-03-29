@@ -1,5 +1,5 @@
 summary: An Erlang-inspired runtime for WebAssembly
 webpage: https://lunatic.solutions
-version: 0.12.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-14.0-arm64/releases/download/2024.06.06/lunatic-0.12.0-macos-14.0-arm64.tar.xz
-bin-sha: a79b568ebc0d65f6a68ecace799277c4b2cf50485e2dab84f7a816f6f7b0eb09
+version: 0.13.2
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-14.0-arm64/releases/download/2026.03.29.1/lunatic-0.13.2-MacOSX-14.0-arm64.tar.xz
+bin-sha: e32297dac586ad58c386eea2d532e4f3d78dfda05c2e027fc5771cd9b09d1b41

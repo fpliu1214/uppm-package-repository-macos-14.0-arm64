@@ -1,0 +1,5 @@
+summary: Cross platform C99 library to get cpu features at runtime
+webpage: https://github.com/google/cpu_features/
+version: 0.10.1
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-14.0-arm64/releases/download/2026.03.29.1/libcpu_features-0.10.1-MacOSX-14.0-arm64.tar.xz
+bin-sha: 2036721585f24537f3f6d0896cef480cf5da9c1d48bf0a06e219031eca8f345c

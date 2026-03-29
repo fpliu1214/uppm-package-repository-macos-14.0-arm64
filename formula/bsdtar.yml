@@ -1,5 +1,5 @@
 summary: BSD tar
 webpage: https://www.libarchive.org/
-version: 3.7.4
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-14.0-arm64/releases/download/2024.06.06/bsdtar-3.7.4-macos-14.0-arm64.tar.xz
-bin-sha: 991857a2553bcb503045692aace4528786517938f776e8c0f4e5cc1005109e70
+version: 3.8.5
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-14.0-arm64/releases/download/2026.03.29.1/bsdtar-3.8.5-MacOSX-14.0-arm64.tar.xz
+bin-sha: 476cb96f1c188660aa15eac8897be31ae02dc99cdb65e8ad45334bcd0137367f

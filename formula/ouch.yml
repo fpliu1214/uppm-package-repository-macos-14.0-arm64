@@ -1,0 +1,5 @@
+summary: Painless compression and decompression for your terminal
+webpage: https://github.com/ouch-org/ouch/
+version: 0.6.1
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-14.0-arm64/releases/download/2026.03.29.1/ouch-0.6.1-MacOSX-14.0-arm64.tar.xz
+bin-sha: 0e497f97dd0a4d205e9416f6908e9ebdf56d3d448a672301320cc54f53735789

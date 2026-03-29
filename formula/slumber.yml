@@ -1,0 +1,5 @@
+summary: Terminal-based HTTP/REST client
+webpage: https://slumber.lucaspickering.me/
+version: 4.3.1
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-14.0-arm64/releases/download/2026.03.29.1/slumber-4.3.1-MacOSX-14.0-arm64.tar.xz
+bin-sha: 7a846e2379cf622db4ea8a0d943a98ddb7eceee1cc8793965675393aeb8e4f05

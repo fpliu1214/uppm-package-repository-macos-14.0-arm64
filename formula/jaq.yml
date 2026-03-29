@@ -1,0 +1,5 @@
+summary: JQ clone focussed on correctness, speed, and simplicity
+webpage: https://github.com/01mf02/jaq/
+version: 2.3.0
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-14.0-arm64/releases/download/2026.03.29.1/jaq-2.3.0-MacOSX-14.0-arm64.tar.xz
+bin-sha: ef6e15d11ecb99fbb3c34530da415e7273316d9af4b41c7e6bdb3f502ae6d7c8

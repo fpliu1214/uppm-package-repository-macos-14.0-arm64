@@ -1,0 +1,5 @@
+summary: Interpreted, interactive, object-oriented programming language
+webpage: https://www.python.org/
+version: 3.14.3
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-14.0-arm64/releases/download/2026.03.29.1/python-3.14.3-MacOSX-14.0-arm64.tar.xz
+bin-sha: 15127a4ba1872c323e645bea333af8ca21d968a02b350a820e8c95d693ab9cbd

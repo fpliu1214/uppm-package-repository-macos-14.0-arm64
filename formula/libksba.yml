@@ -1,5 +1,5 @@
 summary: X.509 and CMS library
 webpage: https://www.gnupg.org/related_software/libksba
 version: 1.6.6
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-14.0-arm64/releases/download/2024.06.06/libksba-1.6.6-macos-14.0-arm64.tar.xz
-bin-sha: a4ec0b42b540387efa78846929015f891168a4c1bd4b98f4e05e681fe5015880
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-14.0-arm64/releases/download/2026.03.29.1/libksba-1.6.6-MacOSX-14.0-arm64.tar.xz
+bin-sha: 18fde2ecd1bd42bde76623a75c1ac1c8ea7524432dcef496d4c41de3848a7653

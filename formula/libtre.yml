@@ -1,0 +1,5 @@
+summary: Lightweight, POSIX-compliant regular expression (regex) library
+webpage: https://github.com/laurikari/tre/
+version: 0.9.0
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-14.0-arm64/releases/download/2026.03.29.1/libtre-0.9.0-MacOSX-14.0-arm64.tar.xz
+bin-sha: 675cd3332944e030c8ff155d1903f89361258d8583b18f4bcc5c8e48bc7f8c65

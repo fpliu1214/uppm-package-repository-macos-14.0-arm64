@@ -1,0 +1,5 @@
+summary: Implementation of the Unicode BiDi algorithm
+webpage: https://github.com/fribidi/fribidi/
+version: 1.0.16
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-14.0-arm64/releases/download/2026.03.29.1/libfribidi-1.0.16-MacOSX-14.0-arm64.tar.xz
+bin-sha: f2795c87ab3f489d880c764a9f2ae1a7dae6f1d95d7e548069a957fea103c660

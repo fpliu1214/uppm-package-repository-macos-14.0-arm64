@@ -1,0 +1,5 @@
+summary: Matching Algorithm with Recursively Implemented StorAge
+webpage: https://github.com/s-yata/marisa-trie/
+version: 0.3.1
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-14.0-arm64/releases/download/2026.03.29.1/libmarisa-0.3.1-MacOSX-14.0-arm64.tar.xz
+bin-sha: 51bb810b03f1c5856f007dde50a139a9567c0cb94165523ea6e294837fbc57be

@@ -1,0 +1,5 @@
+summary: Library providing read access on ZIP-archives
+webpage: https://github.com/gdraheim/zziplib/
+version: 0.13.80
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-14.0-arm64/releases/download/2026.03.29.1/libzzip-0.13.80-MacOSX-14.0-arm64.tar.xz
+bin-sha: ac2ed5fcd3aab1c99e7103f29af51b22700ad1024083ce11a40116a02aa1fe87

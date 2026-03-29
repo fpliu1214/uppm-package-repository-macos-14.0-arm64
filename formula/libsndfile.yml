@@ -1,5 +1,5 @@
 summary: C library for files containing sampled sound
 webpage: http://libsndfile.github.io/libsndfile/
 version: 1.2.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-14.0-arm64/releases/download/2024.06.06/libsndfile-1.2.2-macos-14.0-arm64.tar.xz
-bin-sha: 65cdb0c04ef41280720103a0dbcdf3d69264aecc687dc03b0febf9d7c72d36af
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-14.0-arm64/releases/download/2026.03.29.1/libsndfile-1.2.2-MacOSX-14.0-arm64.tar.xz
+bin-sha: 6d1a5801d685a13558ba7d6aefe71ed9bdb79bd41b93537440477bb16782bdb7

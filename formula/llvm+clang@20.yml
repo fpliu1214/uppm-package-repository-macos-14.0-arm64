@@ -1,0 +1,5 @@
+summary: Next-gen compiler infrastructure
+webpage: https://llvm.org/
+version: 20.1.8
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-14.0-arm64/releases/download/2026.03.29.1/llvm+clang-20.1.8-MacOSX-14.0-arm64.tar.xz
+bin-sha: 0d6b9266a8cd66094c2eb3205204d32b671235bcfdc752c7f625b2cf69f686f9

@@ -1,5 +1,5 @@
 summary: API and commands for processing SPIR-V modules
-webpage: https://github.com/KhronosGroup/SPIRV-Tools
+webpage: https://github.com/KhronosGroup/SPIRV-Tools/
 version: 2023.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-14.0-arm64/releases/download/2024.06.06/spirv-tools-2023.2-macos-14.0-arm64.tar.xz
-bin-sha: 0cc07be76b273661111f8793c459a71913031536d777a9ea68943fa792c9ded0
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-14.0-arm64/releases/download/2026.03.29.1/spirv-tools-2023.2-MacOSX-14.0-arm64.tar.xz
+bin-sha: 572b50950240e64b9a3f6b61b9eebb4fceffd5ac634c463b711119b737280c21

@@ -1,0 +1,5 @@
+summary: Codec library for encoding and decoding AV1 video streams
+webpage: https://aomedia.googlesource.com/aom
+version: 3.13.1
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-14.0-arm64/releases/download/2026.03.29.1/libaom-3.13.1-MacOSX-14.0-arm64.tar.xz
+bin-sha: bcd634a83441719bf76a45371fcedbb60957bd490cf5166b46f6547e7a8bc461

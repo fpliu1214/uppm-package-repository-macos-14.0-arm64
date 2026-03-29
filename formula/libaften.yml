@@ -1,0 +1,5 @@
+summary: Audio encoder which generates ATSC A/52 compressed audio streams
+webpage: https://aften.sourceforge.net/
+version: 0.0.8
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-14.0-arm64/releases/download/2026.03.29.1/libaften-0.0.8-MacOSX-14.0-arm64.tar.xz
+bin-sha: 2694073d824ad437e788f8100305d4cb3f035e244a08c59652275abc65b6f5c4

@@ -1,5 +1,5 @@
 summary: A unit testing framework for C
 webpage: https://libcheck.github.io/check
 version: 0.15.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-14.0-arm64/releases/download/2024.06.06/check-0.15.2-macos-14.0-arm64.tar.xz
-bin-sha: 6a145e18d5b28447272454c42199c834c4c46638050852f9422f301486c4c1fd
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-14.0-arm64/releases/download/2026.03.29.1/check-0.15.2-MacOSX-14.0-arm64.tar.xz
+bin-sha: 11681bb5c314504a33b5880b1bc2f6d30b08d8c1dd0825b986005f571b584d31

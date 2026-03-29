@@ -1,0 +1,5 @@
+summary: Portable OpenBSD ksh, based on the public domain Korn shell (pdksh)
+webpage: https://github.com/ibara/oksh/
+version: 7.8
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-14.0-arm64/releases/download/2026.03.29.1/oksh-7.8-MacOSX-14.0-arm64.tar.xz
+bin-sha: d0e5408500893c67186714bb514a2ad6e14e8a99b5ab19f368bd11838b27b77a

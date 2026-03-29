@@ -1,0 +1,5 @@
+summary: A command-line tool to generate compilation database for clang tooling
+webpage: https://github.com/rizsotto/Bear/
+version: 3.1.6
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-14.0-arm64/releases/download/2026.03.29.1/bear-3.1.6-MacOSX-14.0-arm64.tar.xz
+bin-sha: 3b119668d8ddab177eac2bce32aa8b13e944d9d131661abf242ce261d87c5783

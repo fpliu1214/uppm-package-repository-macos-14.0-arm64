@@ -1,0 +1,5 @@
+summary: A C++ library for interacting with JSON
+webpage: https://github.com/open-source-parsers/jsoncpp/
+version: 1.9.6
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-14.0-arm64/releases/download/2026.03.29.1/libjsoncpp-1.9.6-MacOSX-14.0-arm64.tar.xz
+bin-sha: be0af526ece4cecc005a31ba2206e6f17226bea554a8aa3772033f6418c3b867

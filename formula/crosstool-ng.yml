@@ -1,5 +1,5 @@
-summary: Tool for building toolchains
+summary: A toolchain generator
 webpage: https://crosstool-ng.github.io
-version: 1.26.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-14.0-arm64/releases/download/2024.06.06/crosstool-ng-1.26.0-macos-14.0-arm64.tar.xz
-bin-sha: c33f337dbd29b9b368f7afb0930e78c64184731b77a9254e06e7a24fef97300a
+version: 1.28.0
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-14.0-arm64/releases/download/2026.03.29.1/crosstool-ng-1.28.0-MacOSX-14.0-arm64.tar.xz
+bin-sha: 176bedb0b3258bc62a8ba0b96757ec18c5fe4e39f528fd578cfeabeeb0d3f944

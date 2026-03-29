@@ -1,0 +1,5 @@
+summary: Vector graphics library with cross-device output support
+webpage: https://cairographics.org/
+version: 1.18.4
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-14.0-arm64/releases/download/2026.03.29.1/libcairo-1.18.4-MacOSX-14.0-arm64.tar.xz
+bin-sha: 9408a5175a7808a21643e683d1ed2310532e7edc8b4c35f3055aa283c3082724

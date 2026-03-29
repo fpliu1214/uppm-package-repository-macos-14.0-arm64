@@ -1,0 +1,5 @@
+summary: Library to simplify the interaction with PKCS#11
+webpage: https://github.com/OpenSC/pkcs11-helper/
+version: 1.30.0
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-14.0-arm64/releases/download/2026.03.29.1/libpkcs11-helper-1.30.0-MacOSX-14.0-arm64.tar.xz
+bin-sha: d7d10f33b7c6f54e486dbcf416d9d5c351bbdaf05401e54ff97108365fdcf351

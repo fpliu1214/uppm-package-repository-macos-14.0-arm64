@@ -1,0 +1,5 @@
+summary: Library for userspace RCU (read-copy-update)
+webpage: https://liburcu.org
+version: 0.15.6
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-14.0-arm64/releases/download/2026.03.29.1/liburcu-0.15.6-MacOSX-14.0-arm64.tar.xz
+bin-sha: d9a4450978c1ce1033c23afa05c307d74fd2dace74ed8ae5854296b1315b4c5e

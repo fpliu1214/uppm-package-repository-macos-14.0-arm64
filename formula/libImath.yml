@@ -1,0 +1,5 @@
+summary: Library of 2D and 3D vector, matrix, and math operations
+webpage: https://www.openexr.com/
+version: 3.2.2
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-14.0-arm64/releases/download/2026.03.29.1/libImath-3.2.2-MacOSX-14.0-arm64.tar.xz
+bin-sha: 36ec9d38dfb8024a02a3197e5ed5e76fd2f5b92d5ce9f7f3d40fcc36dac77e54

@@ -1,0 +1,5 @@
+summary: JSON output from a shell
+webpage: https://github.com/jpmens/jo/
+version: 1.9
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-14.0-arm64/releases/download/2026.03.29.1/jo-1.9-MacOSX-14.0-arm64.tar.xz
+bin-sha: d8bbb6425c32dc7c83e96ad487a6efc23f0ebc0d44143f4eb94e176b3758354a

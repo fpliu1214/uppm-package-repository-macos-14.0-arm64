@@ -1,0 +1,5 @@
+summary: An open source graphics library that implements OpenGL, OpenGL ES, Vulkan, OpenCL, and more
+webpage: https://www.mesa3d.org/
+version: 25.2.1
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-14.0-arm64/releases/download/2026.03.29.1/mesa-25.2.1-MacOSX-14.0-arm64.tar.xz
+bin-sha: 268fc5423f1666f4175f74f94c5355bd91c84743b925c9f325789544e6cbcf42

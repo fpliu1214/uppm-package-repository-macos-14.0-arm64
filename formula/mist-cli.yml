@@ -1,0 +1,5 @@
+summary: A command-line tool that automatically downloads macOS Firmwares / Installers
+webpage: https://github.com/ninxsoft/mist-cli/
+version: 2.2
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-14.0-arm64/releases/download/2026.03.29.1/mist-cli-2.2-MacOSX-14.0-arm64.tar.xz
+bin-sha: 43c4f3aed89d8af9e59fda845f415110e8b2eeb610a78ce0b7dbfd40e4b207a0

@@ -1,0 +1,5 @@
+summary: A command-line tool for displaying the CPU information in a clean and beautiful way
+webpage: https://github.com/Dr-Noob/cpufetch/
+version: 1.07
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-14.0-arm64/releases/download/2026.03.29.1/cpufetch-1.07-MacOSX-14.0-arm64.tar.xz
+bin-sha: 7e79bf45157d341cdad31d8f4f3e5e918f120999863fba8a0c890ccd3860aea9

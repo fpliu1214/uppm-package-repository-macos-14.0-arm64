@@ -1,5 +1,5 @@
 summary: Code-search similar to ack
-webpage: https://github.com/ggreer/the_silver_searcher
+webpage: https://github.com/ggreer/the_silver_searcher/
 version: 2.2.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-14.0-arm64/releases/download/2024.06.06/ag-2.2.0-macos-14.0-arm64.tar.xz
-bin-sha: df279d5deb838b0de838396d8a7c58ded1785d0725eef63dab9fde22519459b3
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-14.0-arm64/releases/download/2026.03.29.1/ag-2.2.0-MacOSX-14.0-arm64.tar.xz
+bin-sha: c98676a6e38de2129588e3c3033f44134eb58c849b05af62d96bdc6dc4df8011

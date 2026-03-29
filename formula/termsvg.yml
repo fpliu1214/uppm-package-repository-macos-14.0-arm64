@@ -1,0 +1,5 @@
+summary: A command-line tool to rcord, share and export your terminal as a animated SVG image
+webpage: https://github.com/MrMarble/termsvg/
+version: 0.10.0
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-14.0-arm64/releases/download/2026.03.29.1/termsvg-0.10.0-MacOSX-14.0-arm64.tar.xz
+bin-sha: 171ea98e0b4bb2643ce8221364e3e304bd1a98f4a6da0bf458a7d264b04d3e00

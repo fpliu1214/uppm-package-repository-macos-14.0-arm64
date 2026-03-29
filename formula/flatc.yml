@@ -1,5 +1,5 @@
 summary: An efficient cross platform serialization library for C++
 webpage: https://google.github.io/flatbuffers
-version: 24.3.25
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-14.0-arm64/releases/download/2024.06.06/flatc-24.3.25-macos-14.0-arm64.tar.xz
-bin-sha: 6e8f7f7221e98a677b695a127e8c0cbb6558707efb9bca1a4880d059388c8255
+version: 25.12.19
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-14.0-arm64/releases/download/2026.03.29.1/flatc-25.12.19-MacOSX-14.0-arm64.tar.xz
+bin-sha: 9ab6f3b514d2cd9d5ad11036b86343ebd9e7b1fc0bfef8bb550e630d999481f2

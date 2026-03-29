@@ -1,5 +1,5 @@
-summary: GPU-accelerated terminal emulator
-webpage: https://github.com/alacritty/alacritty
-version: 0.13.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-14.0-arm64/releases/download/2024.06.06/alacritty-0.13.2-macos-14.0-arm64.tar.xz
-bin-sha: 5896cdb4ab54b70e26c50d0dd75638b0eb31fd12d95ea22700b0738839d3427b
+summary: A cross-platform, GPU-accelerated terminal emulator
+webpage: https://github.com/alacritty/alacritty/
+version: 0.16.1
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-14.0-arm64/releases/download/2026.03.29.1/alacritty-0.16.1-MacOSX-14.0-arm64.tar.xz
+bin-sha: 8a3d9de04773c8ff997a4a0dfa144b03bc934f0c92a2fc2c7e8069307d33aaf5

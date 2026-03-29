@@ -1,5 +1,5 @@
 summary: Modern replacement for ls(1)
 webpage: https://the.exa.website
 version: 0.10.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-14.0-arm64/releases/download/2024.06.06/exa-0.10.1-macos-14.0-arm64.tar.xz
-bin-sha: 74ffb697f1fcd93d0f9d625a101c0753a3ce00558697550bd70182e036b87807
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-14.0-arm64/releases/download/2026.03.29.1/exa-0.10.1-MacOSX-14.0-arm64.tar.xz
+bin-sha: 30fae2750af87b19ccc89909f29051638afbae041ed50622dd5b5b4c4e37a10d

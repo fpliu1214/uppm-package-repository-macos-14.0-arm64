@@ -1,0 +1,5 @@
+summary: Cat alternative written in Go
+webpage: https://github.com/koki-develop/gat/
+version: 0.26.0
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-14.0-arm64/releases/download/2026.03.29.1/gat-0.26.0-MacOSX-14.0-arm64.tar.xz
+bin-sha: 28d93bb31c0fd3807d85a0be6e1015496bea52997efb33153ec963cf03c04f3b

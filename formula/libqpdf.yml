@@ -1,0 +1,5 @@
+summary: A C++ library that performs content-preserving transformations on PDF files
+webpage: https://github.com/qpdf/qpdf/
+version: 11.9.1
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-14.0-arm64/releases/download/2026.03.29.1/libqpdf-11.9.1-MacOSX-14.0-arm64.tar.xz
+bin-sha: 2a2e0e7f1a5b7468d83995c690230f49e35849d813e8a165ba29c0ac3be9c981

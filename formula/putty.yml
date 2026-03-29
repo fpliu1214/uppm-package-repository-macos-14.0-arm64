@@ -1,5 +1,5 @@
 summary: Implementation of Telnet and SSH
 webpage: https://www.chiark.greenend.org.uk/~sgtatham/putty/
-version: 0.81
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-14.0-arm64/releases/download/2024.06.06/putty-0.81-macos-14.0-arm64.tar.xz
-bin-sha: 9527652a589532dea318d5dbe46db0dcc6993386247b332b34bb836f6bee2d6d
+version: 0.83
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-14.0-arm64/releases/download/2026.03.29.1/putty-0.83-MacOSX-14.0-arm64.tar.xz
+bin-sha: 36796c686c0cba4296e4bc2a1879eaf9dc29b5f225440eeff070e5dd96d0c856

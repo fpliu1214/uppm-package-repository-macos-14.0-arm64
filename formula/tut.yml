@@ -1,0 +1,5 @@
+summary: TUI for Mastodon with vim inspired keys
+webpage: https://tut.anv.nu
+version: 2.0.1
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-14.0-arm64/releases/download/2026.03.29.1/tut-2.0.1-MacOSX-14.0-arm64.tar.xz
+bin-sha: 300a9f372748bda525637d5fe9bdab32dcac0760937f279e64d416d221552652

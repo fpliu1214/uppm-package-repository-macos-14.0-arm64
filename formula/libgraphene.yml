@@ -1,5 +1,5 @@
 summary: Thin layer of graphic data types
 webpage: https://ebassi.github.io/graphene/
 version: 1.10.8
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-14.0-arm64/releases/download/2024.06.06/libgraphene-1.10.8-macos-14.0-arm64.tar.xz
-bin-sha: af0263855f74799aaed1565b8c842fe35d6c552420f7ada69ace318e5d55d5c7
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-14.0-arm64/releases/download/2026.03.29.1/libgraphene-1.10.8-MacOSX-14.0-arm64.tar.xz
+bin-sha: 973370bdf6337c762b589d907f83bc50181895887d3fe5ab459500b753033a51

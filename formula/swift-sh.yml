@@ -1,0 +1,5 @@
+summary: Scripting with easy zero-conf dependency imports
+webpage: https://github.com/mxcl/swift-sh/
+version: 2.5.0
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-14.0-arm64/releases/download/2026.03.29.1/swift-sh-2.5.0-MacOSX-14.0-arm64.tar.xz
+bin-sha: e04112bc846a4d5e893c6f41a2d6a6edff21ddd8f535a6c3a8fbeabec3963c1a

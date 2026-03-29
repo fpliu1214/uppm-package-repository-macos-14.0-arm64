@@ -1,5 +1,5 @@
 summary: OCR (Optical Character Recognition) engine
-webpage: https://github.com/tesseract-ocr/tesseract
-version: 5.3.4
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-14.0-arm64/releases/download/2024.06.06/libtesseract-5.3.4-macos-14.0-arm64.tar.xz
-bin-sha: cdf79d4e1ba7b6fb547a8fa7e3b1f2d82b9be5fb2d3ff986a6843ea4a5206454
+webpage: https://github.com/tesseract-ocr/tesseract/
+version: 5.5.2
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-14.0-arm64/releases/download/2026.03.29.1/libtesseract-5.5.2-MacOSX-14.0-arm64.tar.xz
+bin-sha: d10939b50628b1c912d32c1c759d69b2dc5e6520e60e0144b050a25415cf578a
